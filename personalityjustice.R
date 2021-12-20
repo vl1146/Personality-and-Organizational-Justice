@@ -10,7 +10,7 @@ extrafont::loadfonts(device = "win")
 
 #load data
 
-data1 <- read.csv("D:/desktop/Programming/R/ARM/data.csv")
+data1 <- read.csv("data.csv")
 str(data1)
 summary(data1)
 
