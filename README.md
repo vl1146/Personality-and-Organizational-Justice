@@ -1,6 +1,6 @@
 # Personality-and-Organizational-Justice
 
-This was a survey based research project with data collected using SurveyMonkey. The project seeked to clarify the relationship between employee perceptions of justice and their associated organizational commitment. Employee personality was investigated as a potential moderating factor in the relationship between justice perceptions and organizational commitment.
+This was a survey based research project with data collected using SurveyMonkey. The project sought to clarify the relationship between employee perceptions of justice and their associated organizational commitment. Employee personality was investigated as a potential moderating factor in the relationship between justice perceptions and organizational commitment.
 
 Reverse coded responses were recoded in excel and responses with more than 25% of data missing were dropped. Data imputation was performed in R using a median impute.
 
